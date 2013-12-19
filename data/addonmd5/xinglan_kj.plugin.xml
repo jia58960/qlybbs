@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Addon MD5]]></item>
+	<item id="ID"><![CDATA[xinglan_kj.plugin]]></item>
+	<item id="RevisionID"><![CDATA[23798]]></item>
+	<item id="SN"><![CDATA[201312051766wgG7L5Zs]]></item>
+	<item id="RevisionDateline"><![CDATA[1379496842]]></item>
+	<item id="Data">
+		<item id="/discuz_plugin_xinglan_kj_SC_GBK.xml"><![CDATA[c9f534340cc2c4145c101c89a9e3fffa]]></item>
+		<item id="/discuz_plugin_xinglan_kj_SC_UTF8.xml"><![CDATA[0307c83491c201a6eed6c8392ea99f5b]]></item>
+		<item id="/discuz_plugin_xinglan_kj_TC_BIG5.xml"><![CDATA[78842e46e75171affacd1bd2d3d174f0]]></item>
+		<item id="/discuz_plugin_xinglan_kj_TC_UTF8.xml"><![CDATA[67b98e0164d4ea5dd7fa21a6c073f17e]]></item>
+		<item id="/images/nav_icon01.png"><![CDATA[846f79d9af3f9d66b9b2534a1b3bba56]]></item>
+		<item id="/images/nav_icon02.png"><![CDATA[b88463e02ba709002b263b4d78f5133d]]></item>
+		<item id="/images/nav_icon03.png"><![CDATA[7d2f279abae3c3fa55485f673a8d1259]]></item>
+		<item id="/images/nav_icon04.png"><![CDATA[a0d2ad33b44f3d0cfe9d475747baadce]]></item>
+		<item id="/wi_subnav.class.php"><![CDATA[384a0bae94bd77333221b1564a4bbecd]]></item>
+	</item>
+</root>

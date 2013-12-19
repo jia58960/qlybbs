@@ -1,0 +1,23 @@
+<!--{template common/header}-->
+<div id="pt" class="bm cl">
+	<div class="z">
+		<a href="./" class="nvhm" title="{lang homepage}">$_G[setting][bbname]</a> <em>&rsaquo;</em> $topic[title]
+	</div>
+</div>
+<link id="style_css" rel="stylesheet" type="text/css" href="static/topic/t1/style.css">
+<style id="diy_style" type="text/css">#framenCFF1F {  border:#33cccc 4px !important;}#frameXdIYO6 {  border:#0099cc 2px !important;margin-right:1px !important;margin-bottom:1px !important;margin-left:10px !important;}#portal_block_5 {  border:#33cc66 0px !important;}#portal_block_5 .dxb_bc a {  color:#009900 !important;font-size:12px !important;}</style>
+<div id="widgets">
+</div>
+<div class="wp">
+<!--[diy=diypage]--><div id="diypage" class="area"><div id="framenCFF1F" class=" frame move-span cl frame-3-1"><div class="title frame-title"><span class="titletext">3-1框架</span></div><div id="framenCFF1F_left" class="column frame-3-1-l"><div id="framenCFF1F_left_temp" class="move-span temp"></div><div id="frame47k97J" class="frame move-span cl frame-1-1"><div class="title frame-title"><span class="titletext">1-1框架</span></div><div id="frame47k97J_left" class="column frame-1-1-l"><div id="frame47k97J_left_temp" class="move-span temp"></div><!--{block/8}--></div><div id="frame47k97J_center" class="column frame-1-1-r"><div id="frame47k97J_center_temp" class="move-span temp"></div><!--{block/6}--></div></div></div><div id="framenCFF1F_center" class="column frame-3-1-r"><div id="framenCFF1F_center_temp" class="move-span temp"></div><div id="frameXdIYO6" class=" frame move-span cl frame-1"><div class="title frame-title"><span class="titletext">1框架</span></div><div id="frameXdIYO6_left" class="column frame-1-c"><div id="frameXdIYO6_left_temp" class="move-span temp"></div><!--{block/5}--></div></div></div></div></div><!--[/diy]-->
+<!--{if $topic['allowcomment']==1}-->
+	{eval
+		$data = &$topic;
+		$common_url = "portal.php?mod=comment&id=$topicid&idtype=topicid";
+		$form_url = "portal.php?mod=portalcp&ac=comment";
+		$commentlist = portaltopicgetcomment($topicid);	}
+	<!--{template portal/portal_comment}-->
+<!--{/if}-->
+</div>
+
+<!--{template common/footer}-->

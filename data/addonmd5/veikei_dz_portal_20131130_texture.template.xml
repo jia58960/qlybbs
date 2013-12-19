@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Addon MD5]]></item>
+	<item id="ID"><![CDATA[veikei_dz_portal_20131130_texture.template]]></item>
+	<item id="RevisionID"><![CDATA[27595]]></item>
+	<item id="SN"><![CDATA[2013120516Eu66bXR6Py]]></item>
+	<item id="RevisionDateline"><![CDATA[1386079201]]></item>
+	<item id="Data">
+		<item id="/common/css_space.css"><![CDATA[ccda97305658962e98bfb113d05ee155]]></item>
+		<item id="/common/extend_common.css"><![CDATA[9f1b71df027413107d5715530315f725]]></item>
+		<item id="/common/extend_module.css"><![CDATA[c918016ef6719076ef8ed144110a7b75]]></item>
+		<item id="/common/footer.php"><![CDATA[24b073e738d8e38b675870c1ded13a25]]></item>
+		<item id="/common/header.php"><![CDATA[46b76fa6ea830f8b8172eb551b86a8d6]]></item>
+		<item id="/common/index.htm"><![CDATA[7215ee9c7d9dc229d2921a40e899ec5f]]></item>
+		<item id="/common/widthauto.css"><![CDATA[5e949bf0589c768ce4afb9eb8e8b59bc]]></item>
+		<item id="/discuz_style_veikei_dz_portal_20131130_texture.xml"><![CDATA[01820ff2473162accba5d7f8a4a9e001]]></item>
+		<item id="/images/bg_body.jpg"><![CDATA[9c7b23f2097f22a51178803b0558dfe8]]></item>
+		<item id="/images/bg_toptb.png"><![CDATA[e73871a67740f9b6243dd84da617d212]]></item>
+		<item id="/images/index.htm"><![CDATA[7215ee9c7d9dc229d2921a40e899ec5f]]></item>
+		<item id="/images/logo.png"><![CDATA[77a0fb65b38546268b1615bf8cbe78b6]]></item>
+		<item id="/images/nv.gif"><![CDATA[53f2409dea39af033325cd4d5a1637d9]]></item>
+		<item id="/images/nv_a.gif"><![CDATA[64dd89caef42c0365b21f3716c794d23]]></item>
+		<item id="/images/nv_li.gif"><![CDATA[cb18bdb897b553e4e42a7b6f276d3dc4]]></item>
+		<item id="/images/vlineb.png"><![CDATA[3aca34f44cd3d128e8f36cca395300de]]></item>
+		<item id="/index.htm"><![CDATA[7215ee9c7d9dc229d2921a40e899ec5f]]></item>
+		<item id="/preview.jpg"><![CDATA[58c241b8c44e1e0fe8ab7e99d670c7c1]]></item>
+		<item id="/preview_large.jpg"><![CDATA[479d6154f8bab74004fe5f553ea6e1c0]]></item>
+	</item>
+</root>

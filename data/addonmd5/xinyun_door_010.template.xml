@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Addon MD5]]></item>
+	<item id="ID"><![CDATA[xinyun_door_010.template]]></item>
+	<item id="RevisionID"><![CDATA[23179]]></item>
+	<item id="SN"><![CDATA[201312061455fHftQzQ3]]></item>
+	<item id="RevisionDateline"><![CDATA[1378778407]]></item>
+	<item id="Data">
+		<item id="/common/extend_common.css"><![CDATA[d472bb8a45d68d8435f7119afae83948]]></item>
+		<item id="/common/header.php"><![CDATA[2ef3608eeb1494e35717250f428b5d7c]]></item>
+		<item id="/common/header_diynav.htm"><![CDATA[1ae0483740c9e37416bd07c068bdda1e]]></item>
+		<item id="/common/header_userstatus.htm"><![CDATA[1c754f669b6647da150687474e0dffdf]]></item>
+		<item id="/common/widthauto.css"><![CDATA[d3b86eb294383a3ad22e0c86cf7b046b]]></item>
+		<item id="/discuz_style_xinyun_door_010.xml"><![CDATA[0f9c0f1680b53b9fd3384325f020231d]]></item>
+		<item id="/images/logo.png"><![CDATA[56f629dcf23835b7c11567f0d4b2f078]]></item>
+		<item id="/images/pn_post.png"><![CDATA[8cdd28793a42a4136083a958e653da6c]]></item>
+		<item id="/images/pn_reply.png"><![CDATA[1f42fdefb6cd87b4f0f3af6455762f74]]></item>
+		<item id="/preview.jpg"><![CDATA[0e003d5171ea608d079f2385594f3b1a]]></item>
+		<item id="/preview_large.jpg"><![CDATA[3c6271e58d39648d527e07a931203542]]></item>
+	</item>
+</root>
